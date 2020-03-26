@@ -1,4 +1,0 @@
-message.welcome=Дратути!
-message.question=Как дела?
-user.firstname=Анастасия
-user.lastname=Журова
