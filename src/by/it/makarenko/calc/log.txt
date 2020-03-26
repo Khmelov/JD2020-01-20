@@ -1,0 +1,2 @@
+[25.03.2020 13:12:48] Variables have not been added yet.
+[25.03.2020 13:12:48] expression: 3 + 4, result: 7.0
